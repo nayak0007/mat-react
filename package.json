@@ -39,11 +39,8 @@
     "url": "git+https://github.com/nayak0007/mat-react.git"
   },
   "keywords": [],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "Dipes Nayak",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
-  },
   "homepage": "https://nayak0007.github.io/mat-react",
   "optionalDependencies": {
     "@types/googlemaps": "3.39.6",
